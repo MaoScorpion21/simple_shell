@@ -121,4 +121,4 @@ Marco Antonio Ordóñez	<3917@holbertonschool.com>
 isatty(3),	malloc(3),	open(2),	read(2),	sh(1),	signal(2),	stat(2),	wait(2),	write(2)
 
 .P
-.P;0;0;0;1_
+.P

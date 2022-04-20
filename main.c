@@ -1,8 +1,19 @@
-#define EXIT_SUCCESS = 1
+#include <stdio.h>
+#include <sys/wait.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stddef.h>
+#include "main.h"
 
-int main(int argc,char **argv)
+/**
+ * main - 
+ *
+ */
+
+
+int main(void)
 {
-	hsh_loop();
-
-	return EXIT_SUCCESS;
+	  hsh_loop();
+	  return (1);
 }
