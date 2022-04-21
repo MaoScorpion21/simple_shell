@@ -79,7 +79,7 @@ An example:
 
 ## Flow Chart
 
-![enter image description here]
+![Shell Flowchart](https://github.com/Ragnar9902/simple_shell/blob/f0fda0a67763cb0ae5f190dfec0f7dc2b6fc045c/Flowchart.jpg)
 
 ## References
 [Shell Computing](https://en.wikipedia.org/wiki/Shell_(computing)) Article on Wikipedia.
@@ -97,7 +97,7 @@ An example:
 `https://github.com/Ragnar9902`
 
 **Email Account:**
-`@.com`
+`4588@holbertonschool.com`
 
 
 ### Marco Antonio Ordóñez:
@@ -106,4 +106,4 @@ An example:
 `https://github.com/MaoScorpion21`
 
 **Email Account:**
-`mao7021@hotmail.com`
+`mao7021@hotmail.com` `3917@holbertonschool.com`
